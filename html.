@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>فروشگاه تفریحی Funova</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; }
+        header { background-color: #2c3e50; color: white; padding: 20px; text-align: center; }
+        header h1 { margin: 0; }
+        .container { width: 80%; margin: auto; }
+        .categories { display: flex; justify-content: space-around; margin-top: 20px; }
+        .category { background-color: #ecf0f1; padding: 20px; border-radius: 8px; width: 30%; text-align: center; }
+        .category img { width: 100%; border-radius: 8px; }
+        .category h2 { color: #2c3e50; }
+        .footer { background-color: #2c3e50; color: white; text-align: center; padding: 10px 0; margin-top: 40px; }
+        a { color: #3498db; text-decoration: none; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>فروشگاه آنلاین تفریحی Funova</h1>
+        <p>محصولات جذاب و سرگرم‌کننده برای تمامی سنین</p>
+    </header>
+
+    <div class="container">
+        <section class="categories">
+            <div class="category">
+                <img src="https://via.placeholder.com/300" alt="سرگرمی">
+                <h2>سرگرمی</h2>
+                <p>محصولات سرگرم‌کننده برای همه!</p>
+                <a href="#">مشاهده محصولات</a>
+            </div>
+            <div class="category">
+                <img src="https://via.placeholder.com/300" alt="اسباب‌بازی">
+                <h2>اسباب‌بازی</h2>
+                <p>اسباب‌بازی‌های هیجان‌انگیز برای کودکان</p>
+                <a href="#">مشاهده محصولات</a>
+            </div>
+            <div class="category">
+                <img src="https://via.placeholder.com/300" alt="کمپینگ">
+                <h2>کمپینگ</h2>
+                <p>وسایل تفریحی و کمپینگ برای ماجراجویی‌های بیرون از خانه</p>
+                <a href="#">مشاهده محصولات</a>
+            </div>
+        </section>
+    </div>
+
+    <footer class="footer">
+        <p>فروشگاه آنلاین تفریحی Funova - تمامی حقوق محفوظ است</p>
+        <p>با ما در <a href="https://www.instagram.com" target="_blank">اینستاگرام</a> همراه باشید</p>
+    </footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>فروشگاه تفریحی Funova</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; }
+        header { background-color: #2c3e50; color: white; padding: 20px; text-align: center; }
+        header h1 { margin: 0; }
+        .container { width: 80%; margin: auto; }
+        .categories { display: flex; justify-content: space-around; margin-top: 20px; }
+        .category { background-color: #ecf0f1; padding: 20px; border-radius: 8px; width: 30%; text-align: center; }
+        .category img { width: 100%; border-radius: 8px; }
+        .category h2 { color: #2c3e50; }
+        .footer { background-color: #2c3e50; color: white; text-align: center; padding: 10px 0; margin-top: 40px; }
+        a { color: #3498db; text-decoration: none; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>فروشگاه آنلاین تفریحی Funova</h1>
+        <p>محصولات جذاب و سرگرم‌کننده برای تمامی سنین</p>
+    </header>
+
+    <div class="container">
+        <section class="categories">
+            <div class="category">
+                <img src="https://via.placeholder.com/300" alt="سرگرمی">
+                <h2>سرگرمی</h2>
+                <p>محصولات سرگرم‌کننده برای همه!</p>
+                <a href="#">مشاهده محصولات</a>
+            </div>
+            <div class="category">
+                <img src="https://via.placeholder.com/300" alt="اسباب‌بازی">
+                <h2>اسباب‌بازی</h2>
+                <p>اسباب‌بازی‌های هیجان‌انگیز برای کودکان</p>
+                <a href="#">مشاهده محصولات</a>
+            </div>
+            <div class="category">
+                <img src="https://via.placeholder.com/300" alt="کمپینگ">
+                <h2>کمپینگ</h2>
+                <p>وسایل تفریحی و کمپینگ برای ماجراجویی‌های بیرون از خانه</p>
+                <a href="#">مشاهده محصولات</a>
+            </div>
+        </section>
+    </div>
+
+    <footer class="footer">
+        <p>فروشگاه آنلاین تفریحی Funova - تمامی حقوق محفوظ است</p>
+        <p>با ما در <a href="https://www.instagram.com" target="_blank">اینستاگرام</a> همراه باشید</p>
+    </footer>
+
+</body>
+</html>
